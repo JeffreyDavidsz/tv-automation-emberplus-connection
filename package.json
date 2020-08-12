@@ -1,9 +1,9 @@
 {
 	"name": "emberplus-connection",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Javascript implementation of the Ember+ automation protocol",
 	"engines": {
-		"node": ">=10.20.1"
+		"node": ">=8.15.1"
 	},
 	"files": [
 		"dist/**/*"
